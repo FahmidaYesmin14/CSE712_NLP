@@ -1,7 +1,7 @@
 Link to unlisted youtube video:
 https://youtu.be/ZKazY9ipNsQ
 
-Two public link to the Concept Map (anyone on the internet can view without login):
+Two public link to the Concept Map:
 PDF: 
 https://github.com/FahmidaYesmin14/CSE712_NLP/blob/main/Submission3/Concept%20Map_Chapter5.pdf
 Native/original format: 
