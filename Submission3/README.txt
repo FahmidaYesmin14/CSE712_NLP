@@ -1,8 +1,11 @@
 Link to unlisted youtube video:
 https://youtu.be/ZKazY9ipNsQ
 
-Link to the Concept Map:
-https://drive.google.com/file/d/1AynQS9vh9PuYgoaykMZXNmluP0YA8drV/view
+Two public link to the Concept Map:
+PDF: 
+https://github.com/FahmidaYesmin14/CSE712_NLP/blob/main/Submission3/Concept%20Map_Chapter5.pdf
+Native/original format: 
+https://drive.google.com/file/d/1ro3PU5SK4Scsj-mCDH6-UPOdiWt51mMV/view?usp=sharing
 
 Name, Author, Edition, year and publisher of the Book:
 Speech and Language Processing
